@@ -1,4 +1,4 @@
-## BOT-BY-JIDUN
+## BOTBYJIDUNS
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Jidun/bot-by-jidun
-> cd bot-by-jidun
+> git clone https://github.com/Jiduns/botbyjiduns
+> cd botbyjiduns
 > bash install.sh
 > node index.js
 ```

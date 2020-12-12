@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jidun/bot-by-jidun"
+    "url": "git+https://github.com/Jiduns/botbyjiduns"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jidun/bot-by-jidun/issues"
+    "url": "https://github.com/Jiduns/botbyjiduns/issues"
   },
-  "homepage": "https://github.com/Jidun/bot-by-jidun#readme"
+  "homepage": "https://github.com/Jiduns/botbyjiduns#readme"
 }
